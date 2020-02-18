@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>pl.slawas</groupId>
 	<artifactId>db2odbcconfigreader</artifactId>
-	<version>1.0.2</version>
+	<version>1.0.3-SNAPSHOT</version>
 
 	<name>Db2OdbcConfigReader</name>
 	<description>Mechanizmy do czytania konfiguracji ODBC na potrzeby zestawienia połaczenia JDBC</description>
